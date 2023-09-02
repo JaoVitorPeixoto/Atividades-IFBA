@@ -13,6 +13,8 @@ O repositório está organizado da seguinte forma:
 
 - **HTML-CSS-PHP** 🌐💻: *Os sites que fiz utilizando HTML, CSS e PHP para atividades ou projetos.Java. [Clique aqui](https://github.com/JaoVitorPeixoto/Atividades-IFBA/tree/main/HTML-CSS-PHP)*
 
+- **BANCO DE DADOS** 🗄️: *Todos os bancos de dados que desenvolvi estudando no IFBA. [Clique aqui](https://github.com/JaoVitorPeixoto/Atividades-IFBA/tree/main/BANCO%20DE%20DADOS)*
+
 
     
 ## Como Contribuir 🤝
