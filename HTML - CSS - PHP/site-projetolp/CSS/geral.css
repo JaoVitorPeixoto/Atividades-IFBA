@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Ubuntu&display=swap');
+
+html{
+    height: 0px;
+}
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a{ text-decoration: none;}
+
+body{
+    background-color: #F2F2F2;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    min-height: 100vh;
+    
+}
+
+header{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #000;
+    height: 82px;
+    
+}
+
+nav{
+    font-size: 16px;
+    position: absolute;
+    right: 300px;
+    display: flex;
+    flex-direction: row;  
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    color: #FFF;
+}
+
+nav a{ color: #FFF; margin: 10px 15px;}
+
+nav a:hover{
+    color: #5C5CFF;
+    font-weight: bold;
+}
+
+#logo{ 
+    justify-content: start;
+    position: relative;
+    top: 20px;
+    width: 115px;
+    margin: 0px;
+    float: left;
+}
+
+#empresa{
+    color: #FFF;
+    float: left;
+    margin: 0px;
+}
+
+#empresa:hover, #logo:hover{
+    font-weight: bold;
+    color: #5C5CFF;
+    width: 125px;
+}
+
+#usuario{
+    width: 40px;
+    overflow: hidden;
+    position: absolute;
+    right: 10px;
+}
+
+#usuario img{
+    width: 200%;
+}
+
+#usuario img:hover{
+    position: relative;
+    right: 40px;
+    cursor: pointer;
+}
+
+main, #main{
+    min-height: 65vh;
+    box-sizing: border-box;
+}
+
+
+/*--------Footer-------*/
+#footer{
+    background-color: #000;
+    color: #FFF;
+    display: inline-block;
+    text-align: center;
+    clear: both;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.footer-social{
+    width: 33px;
+    margin-right: 16px;
+}
+
+#footer-container-01{
+    font-weight: bold;
+    color: #000;
+}
+
+#logo-footer{
+    width: 70px;
+}
+
+#footer-container-01 p{
+    color: #FFF;
+}
+
+#footer-container-02{
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.container-footer{
+    background: #000 !important;
+    text-align: center;
+    display: inline-block;
+    margin: 10px 100px;
+    width: 200px;
+    justify-content: center;
+}
+
+#Copyright{
+    font-style: italic;
+    color: #F2F2F2;
+    font-size: 12px;
+}
+
+#footer input{
+    border-radius: 5px;
+    padding: 5px;
+    margin: 3px;
+    background-color: #fff;
+}
+
+::placeholder{
+    font-style: italic;  
+}
+
+.footer-social{
+    align-items: center;
+    padding-left: 10px;
+}
+
+

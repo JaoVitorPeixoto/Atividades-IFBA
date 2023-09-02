@@ -1,0 +1,39 @@
+#geral{
+    margin: 10% auto 40px;
+    width: 480px;
+    height: auto;
+    border: 5px groove green;
+}
+
+.formato_div{
+    width: 120px;
+    height: 60px;
+}
+
+#img1{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+#img2{
+    margin-top: 62px;
+    margin-left: 220px;
+}
+
+#img3{
+    margin-left: 340px;
+}
+
+#img4{
+    margin-left: 340px;
+    margin-top: 55px;
+}
+
+#img5{
+    margin-left: 340px;
+}
+
+#img6{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}

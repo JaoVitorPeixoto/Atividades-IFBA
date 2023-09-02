@@ -1,0 +1,55 @@
+#form_cadastro{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    color: #e8f1f2;
+    box-shadow: 20px 20px 10px rgb(22, 20, 32);
+    text-align: center;
+    border: solid rgba(214, 216, 233, 0.534);
+    border-radius: 10px ;
+    width: 45%;
+    height:60%;
+    background-color: rgba(180, 185, 236, 0.171);
+}
+
+select{
+    border-radius: 5px !important;
+}
+
+input, button, select{
+    background: #e8f1f2;
+    text-align: center; 
+    width: 15em !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border: 2px solid rgb(228, 229, 243) ;
+    border-radius: 20px ;
+    margin: 5px ;
+    padding: 7px ;
+    font-weight: bold ;
+    font-size: 1em ;
+    margin-top: 10px;
+}
+
+
+#input[type=submit]:hover, input[type=reset]:hover, button:hover{
+   background: #13293d !important; 
+   color: #e8f1f2;
+   font-size: bolder ;   
+   cursor: pointer ;
+}
+
+#btnVoltar button{
+    box-shadow: 12px 12px 10px rgb(22, 20, 32);
+    cursor: pointer;
+    text-align: center;
+    width: 18em;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid rgb(228, 229, 243);
+    border-radius: 20px;
+    margin: 5px;
+    padding: 7px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

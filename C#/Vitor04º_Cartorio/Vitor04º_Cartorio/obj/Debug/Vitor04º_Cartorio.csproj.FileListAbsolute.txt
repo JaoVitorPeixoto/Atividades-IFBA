@@ -1,0 +1,14 @@
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\bin\Debug\Vitor04º_Cartorio.exe.config
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\bin\Debug\Vitor04º_Cartorio.exe
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\bin\Debug\Vitor04º_Cartorio.pdb
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.Login_FORM.resources
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.Properties.Resources.resources
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.csproj.GenerateResource.cache
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.csproj.CoreCompileInputs.cache
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.exe
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.pdb
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.csproj.AssemblyReference.cache
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.Menu_FORM.resources
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.CadUsuario_FORM.resources
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.CadCliente_FORM.resources
+C:\Users\joaot\OneDrive\PROGRAMAÇÃO\C#\PROJETOS C#\Vitor04º_Cartorio\Vitor04º_Cartorio\obj\Debug\Vitor04º_Cartorio.Tabelas_FORM.resources

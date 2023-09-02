@@ -1,0 +1,18 @@
+body{
+background: black;
+}
+
+#TOPO{
+    color: rgb(25, 0, 255);
+    font-weight: 900;
+    border: 10px solid red;
+    width: 40%;
+    background-color: white;
+}
+
+.Paragrafo{
+color: yellow;
+font-weight: 900;
+font-style: italic;
+background-color: green;
+}

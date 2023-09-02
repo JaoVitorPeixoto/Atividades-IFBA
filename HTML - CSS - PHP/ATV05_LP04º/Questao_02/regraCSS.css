@@ -1,0 +1,57 @@
+.a{
+    margin: 0px auto 90px;
+    border: solid red;
+    width: 70%;
+    padding-bottom: 70%;
+    background:#add8e6;
+}
+
+.b{
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.c{
+    margin: 0px auto 90px;
+    border: solid red;
+    width: 70%;
+    padding-bottom: 70%;
+
+    background: url(one_piece_1.jpg) repeat scroll;
+}
+
+.d{
+    margin: 0px auto 90px;
+    border: solid red;
+    width: 70%;
+    padding-bottom: 70%;
+
+    background: url(berserk.jpg) repeat-y;
+}
+
+.e{
+    margin: 0px auto 90px;
+    border: solid red;
+    width: 70%;
+    padding-bottom: 70%;
+
+    background: url(haikyuu.jpg) no-repeat;
+}
+
+.f{
+    margin: 0px auto 90px;
+    border: solid red;
+    width: 70%;
+    padding-bottom: 70%;  
+    
+    background: url(yuyu.jpg) center no-repeat;
+}
+
+.g{
+    margin: 0px auto 90px;
+    border: solid red;
+    width: 70%;
+    padding-bottom: 70%;  
+
+    background: url(hxh.jpg) yellow no-repeat fixed center;
+}

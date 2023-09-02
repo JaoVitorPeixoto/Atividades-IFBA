@@ -1,0 +1,72 @@
+#servicos h2{
+    font-size: 30px;
+    font-style:normal;
+    margin: 5px 10px 30px 30px;
+    width: 500px;
+}
+
+a{text-decoration: none;}
+.servicos-paineis a:visited{color: black;}
+.servicos-paineis a:link{color: black;}
+
+#todos-servicos{
+    width: 100%; 
+    text-align: center;
+}
+
+.servicos-paineis:hover .conteudo-servico span{
+    color: #5C5CFF;
+    font-weight: bold;
+}
+
+.servicos-paineis:hover{
+    cursor: pointer;
+    background-color: white;
+    border: solid black;
+}
+
+.servicos-paineis{
+    border: ridge; 
+    border-radius: 5px;
+    display: inline-block;
+    width: 25%;
+    height: 210px;
+    margin: 15px;
+    padding: 15px;
+}
+
+.conteudo-servico span{
+    font-weight: bold;
+}
+
+.conteudo-servico p{
+    font-weight: 100;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px 50px 25px 50px;
+}
+
+.conteudo-servico{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagem-servico img{ width: 100%; }
+
+#imagem-servico{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+#vetor{
+    text-align: end;  
+}
+
+#vetor img{
+    position: relative;
+    bottom: -4px;
+    width: 10%;
+}

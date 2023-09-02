@@ -1,0 +1,111 @@
+
+body{
+box-sizing: border-box;
+padding: 0px;
+margin: 0px;
+min-height: 100vh;
+width: 100%;
+font-family: 'Courier New', Courier, monospace;
+
+background: linear-gradient(#13293d 15%, #01496b, #1b5a75);
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+main{ 
+    color: #e8f1f2;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    width: 100%; 
+    height: 85%;
+    position: fixed;
+}
+
+footer{
+    box-shadow: 10px -10px  10px #0a1927;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    text-align: center;
+    background-color: #13293d;
+    clear: both;
+    height: auto;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: #e8f1f2;
+}
+
+#login{
+    box-shadow: 20px 20px 10px rgb(22, 20, 32);
+    text-align: center;
+    border: solid rgba(214, 216, 233, 0.534);
+    border-radius: 10px ;
+    width: 30%;
+    height:60%;
+    background-color: rgba(180, 185, 236, 0.171);
+
+}
+
+#login img{
+    margin-top: 14px;
+    width: 6vw;
+}
+
+#mensagemErro{
+    color: rgb(192, 31, 10);
+    font-weight: bold;
+}
+
+#cadastrar{
+    position: relative;
+    top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e8f1f2;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+#cadastrar:hover{
+    font-weight: bolder;
+}
+
+
+#form_login input{
+    text-align: center;
+    width: 15em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid rgb(228, 229, 243);
+    border-radius: 20px;
+    margin: 5px;
+    padding: 7px;
+}
+
+#form_login input[type=submit]{
+    cursor: pointer;
+}
+
+#form_login input[type=submit]:hover{
+   background-color: #13293d; 
+   color: #e8f1f2;
+   font-size: 1em;
+   font-size: bolder;
+}
+
+#conhecer_criador a{
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color: #e8f1f2;
+    text-decoration: none;
+}
+
+#conhecer_criador img{
+    margin-right: 10px;
+}
+
+#conhecer_criador{
+    position: relative;
+}

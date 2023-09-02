@@ -1,0 +1,19 @@
+#menu_lateral{
+    margin: 15% 0px;
+    border: 1px solid black;
+    border-right: 5px #ff9900 solid;
+    width: 10%;
+    font-size: 100%;
+    color: #ff9f0f;
+}
+
+#menu_lateral a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.lateral{
+    border: 1px solid black;
+    border-right: 0px;
+    padding: 5px 15px;
+}

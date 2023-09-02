@@ -1,0 +1,36 @@
+#topo{
+    border: 2px solid #0180ff;
+    width: 60%;
+    margin: 0px auto 30%;
+}
+
+#logo{
+    padding: 5px 20px 5px 5px;
+}
+
+.topicos{
+    border-top: 6px solid;
+    font-size: 30px;
+    font-weight: bolder;
+    width: 5%;
+}
+
+select{
+    width: 150px;
+}
+
+#noticias{
+    color: #ed4545;
+}
+
+#esportes{
+    color: #9cbe36;
+}
+
+#entretenimento{
+    color: #ff9900;
+}
+
+#videos{
+    color: #0066FF;
+}

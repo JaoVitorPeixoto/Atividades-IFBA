@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A830512-6AB1-47AC-9382-434F3C79790D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Vitor04º_Cartorio</RootNamespace>
+    <AssemblyName>Vitor04º_Cartorio</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CadCliente_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadCliente_FORM.Designer.cs">
+      <DependentUpon>CadCliente_FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadUsuario_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadUsuario_FORM.Designer.cs">
+      <DependentUpon>CadUsuario_FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_FORM.Designer.cs">
+      <DependentUpon>Login_FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_FORM.Designer.cs">
+      <DependentUpon>Menu_FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tabelas_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tabelas_FORM.Designer.cs">
+      <DependentUpon>Tabelas_FORM.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CadCliente_FORM.resx">
+      <DependentUpon>CadCliente_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadUsuario_FORM.resx">
+      <DependentUpon>CadUsuario_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_FORM.resx">
+      <DependentUpon>Login_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_FORM.resx">
+      <DependentUpon>Menu_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tabelas_FORM.resx">
+      <DependentUpon>Tabelas_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\do-utilizador.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sombra-de-usuario-masculino %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\simbolo-de-interface-de-cadeado-fechado-retangular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\informacoes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\contrato %282%29.png" />
+    <None Include="Resources\casa_terreno.jpg" />
+    <None Include="Resources\SistemaCartorio.png" />
+    <None Include="Resources\cartorio_Logo.png" />
+    <None Include="Resources\brnac.png" />
+    <Content Include="Resources\cadeado.ico" />
+    <Content Include="Resources\Cartorio.ico" />
+    <None Include="Resources\transacao_branco.png" />
+    <None Include="Resources\reparo-da-casa_branco.png" />
+    <None Include="Resources\lista-de-controle_branco.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

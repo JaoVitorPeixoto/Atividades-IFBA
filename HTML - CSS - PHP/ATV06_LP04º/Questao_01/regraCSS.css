@@ -1,0 +1,13 @@
+.p{
+    width: 150px;
+    height: 100px; 
+    color: white;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 2px blue dashed;
+    border-bottom: 2px red double;
+    border-left: 2px yellow dotted;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 20px auto;
+}

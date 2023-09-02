@@ -1,0 +1,23 @@
+body{
+    background: #000;
+}
+
+#a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+#b{
+    font: 22px 'Times New Roman', Times, serif;
+    color: green;
+}
+
+#c{
+    font: italic 20px "Comic Sans Serif", cursive, sans-serif;
+    color: blue;
+}
+
+#d{
+    color: yellow;
+    font: bold 14px medium  Verdana, Geneva, Tahoma, sans-serif;
+}
