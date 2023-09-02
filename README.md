@@ -7,11 +7,11 @@ Este repositório contém todas as atividades que realizei durante os anos que p
 ## Organização do Repositório 📁
 O repositório está organizado da seguinte forma:
 
-- **C#** 👨‍💻: *Este diretório contém as atividades e trabalhos que fiz utilizando C#. [Clique aqui](C#)*
+- **C#** 👨‍💻: *Este diretório contém as atividades e trabalhos que fiz utilizando C#. [Clique aqui](https://github.com/JaoVitorPeixoto/Atividades-IFBA/C#)*
 
-- **Java** ☕: *Aqui você encontrará os projetos e atividades com linguagem Java. [Clique aqui](JAVA)*
+- **Java** ☕: *Aqui você encontrará os projetos e atividades com linguagem Java. [Clique aqui](https://github.com/JaoVitorPeixoto/Atividades-IFBA/JAVA)*
 
-- **HTML-CSS-PHP** 🌐💻: *Os sites que fiz utilizando HTML, CSS e PHP para atividades ou projetos.Java. [Clique aqui]("HTML-CSS-PHP")*
+- **HTML-CSS-PHP** 🌐💻: *Os sites que fiz utilizando HTML, CSS e PHP para atividades ou projetos.Java. [Clique aqui](https://github.com/JaoVitorPeixoto/Atividades-IFBA/HTML-CSS-PHP)*
 
 
     
