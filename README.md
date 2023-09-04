@@ -27,4 +27,4 @@ Se você deseja entrar em contato comigo para obter mais informações sobre qua
 
 
     
-Espero que este README ajude os visitantes a entender o conteúdo deste repositório e a apreciar o seu trabalho acadêmico durante seus anos no Instituto Federal da Bahia. 🎓🌟
+Espero que este README ajude os visitantes a entender o conteúdo deste repositório e a apreciar o meu trabalho acadêmico durante meus anos no Instituto Federal da Bahia. 🎓🌟
